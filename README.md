@@ -7,7 +7,7 @@
 - AI 生成新聞摘要（Hugging Face BART）
 - AI 進行情緒分析（Positive / Negative / Neutral）
 - 視覺化新聞數據（條形圖與詞雲）
-- 自動發送 Email（每日市場新聞報告）
+- 發送 Email（市場新聞報告）
 
 ## 2. 技術架構
 本專案使用以下技術：
