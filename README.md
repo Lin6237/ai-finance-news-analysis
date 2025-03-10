@@ -31,7 +31,7 @@ python main.py
 系統將會爬取 Yahoo Finance 最新新聞，生成 AI 摘要與情緒分析結果，並顯示可視化圖表。
 
 ## 5. 設定 Email 推送功能
-如需啟用 Email 通知，請至 Google 帳戶開啟「應用程式密碼」，並將其填入 main.py 的 password 變數中。
+如需啟用 Email 通知，請至 Google 帳戶開啟「應用程式密碼」。
 
 ## 6. 視覺化結果
 本專案包含：
